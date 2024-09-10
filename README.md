@@ -19,4 +19,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-sentiment.git
+   git clone https://github.com/divas7/text-sentiment.git
